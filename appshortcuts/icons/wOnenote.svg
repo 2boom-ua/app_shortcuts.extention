@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="70px" height="62px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6.63 5.872"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil3 {fill:#7719AA;fill-rule:nonzero}
+    .fil6 {fill:#9332BF;fill-rule:nonzero}
+    .fil5 {fill:#AE4BD5;fill-rule:nonzero}
+    .fil1 {fill:#CA64EA;fill-rule:nonzero}
+    .fil4 {fill:white;fill-rule:nonzero}
+    .fil2 {fill:black;fill-rule:nonzero;fill-opacity:0.749020}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="6.63" height="5.872"/>
+ </g>
+ <g id="__x0023_Layer_x0020_1">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_1476741066992">
+   <g id="OneNote">
+    <g id="_24" data-name="24">
+     <rect class="fil0" x="1.989" y="1.61" width="2.652" height="2.652"/>
+     <path class="fil1" d="M4.531 1.721l-1.768 0c-0.061,0 -0.111,0.049 -0.111,0.11l0 2.21c0,0.061 0.05,0.111 0.111,0.111l1.461 0c0.23,0 0.417,-0.187 0.417,-0.417l0 -1.904c0,-0.061 -0.049,-0.11 -0.11,-0.11z"/>
+     <path class="fil2" d="M3.517 2.273l-0.865 0 0 1.547 0.84 0c0.081,-0.005 0.147,-0.068 0.155,-0.149l0 -1.269c-0.001,-0.071 -0.059,-0.128 -0.13,-0.129z"/>
+     <path class="fil3" d="M2.118 2.163l1.289 0c0.071,0 0.129,0.058 0.129,0.129l0 1.288c0,0.072 -0.058,0.13 -0.129,0.13l-1.289 0c-0.071,0 -0.129,-0.058 -0.129,-0.13l0 -1.288c0,-0.071 0.058,-0.129 0.129,-0.129z" data-name="Back Plate"/>
+     <path class="fil4" d="M2.409 2.494l0.188 0 0.325 0.57c0.014,0.028 0.026,0.056 0.036,0.085l0 0c-0.004,-0.03 -0.006,-0.061 -0.006,-0.092 0,-0.008 0,-0.017 0.001,-0.025l0 -0.538 0.163 0 0 0.884 -0.176 0 -0.338 -0.588c-0.012,-0.019 -0.024,-0.04 -0.034,-0.06l0 0c0.001,0.021 0.002,0.042 0.002,0.064 0,0.021 -0.001,0.043 -0.002,0.064l0 0.52 -0.159 0 0 -0.884z"/>
+     <rect class="fil5" x="3.978" y="2.163" width="0.663" height="0.663"/>
+     <rect class="fil6" x="3.978" y="2.826" width="0.663" height="0.663"/>
+     <path class="fil3" d="M3.978 3.489l0 0.663 0.553 0c0.061,0 0.11,-0.05 0.11,-0.111l0 -0.552 -0.663 0z"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

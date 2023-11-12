@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="70px" height="62px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 11.842 10.489"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil4 {fill:#103F91;fill-rule:nonzero}
+    .fil3 {fill:#185ABD;fill-rule:nonzero}
+    .fil2 {fill:#2B7CD3;fill-rule:nonzero}
+    .fil1 {fill:#41A5EE;fill-rule:nonzero}
+    .fil6 {fill:white;fill-rule:nonzero}
+    .fil5 {fill:black;fill-rule:nonzero;fill-opacity:0.501961}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="11.842" height="10.489"/>
+ </g>
+ <g id="__x0023_Layer_x0020_1">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_1476734996160">
+   <g id="Word">
+    <g id="_24" data-name="24">
+     <rect class="fil0" x="3.553" y="2.876" width="4.737" height="4.737"/>
+     <path class="fil1" d="M8.289 4.257l0 -0.986c0,-0.109 -0.088,-0.198 -0.197,-0.198l-3.158 0c-0.109,0 -0.197,0.089 -0.197,0.198l0 0.986 1.776 0.395 1.776 -0.395z"/>
+     <polygon class="fil2" points="8.289,4.257 4.737,4.257 4.737,5.244 6.612,5.639 8.289,5.244 "/>
+     <polygon class="fil3" points="8.289,5.244 4.737,5.244 4.737,6.231 6.513,6.527 8.289,6.231 "/>
+     <path class="fil4" d="M4.737 6.231l3.552 0 0 0.987c0,0.109 -0.088,0.197 -0.197,0.197l-3.158 0c-0.109,0 -0.197,-0.088 -0.197,-0.197l0 -0.987z"/>
+     <path class="fil5" d="M6.282 4.06l-1.545 0 0 2.763 1.5 0c0.145,-0.009 0.262,-0.122 0.276,-0.266l0 -2.266c-0.001,-0.127 -0.104,-0.23 -0.231,-0.231z"/>
+     <path class="fil3" d="M3.783 3.863l2.302 0c0.127,0 0.231,0.103 0.231,0.231l0 2.301c0,0.127 -0.104,0.231 -0.231,0.231l-2.302 0c-0.127,0 -0.23,-0.104 -0.23,-0.231l0 -2.301c0,-0.128 0.103,-0.231 0.231,-0.231z" data-name="Back Plate"/>
+     <polygon id="Letter" class="fil6" points="5.558,6.034 5.274,6.034 4.934,4.944 4.595,6.034 4.31,6.034 3.995,4.455 4.279,4.455 4.5,5.56 4.832,4.486 5.068,4.486 5.384,5.56 5.605,4.455 5.874,4.455 "/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

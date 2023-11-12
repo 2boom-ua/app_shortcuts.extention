@@ -1,0 +1,17 @@
+/*dark theme css*/
+:root {
+	--mapp: #DBDBEA;  /* app name */
+	--mdesc: #B9B9C8; /* app description */
+	--mbkg: #383838;  /* app background */
+	--msbkg: #2B2B2B;
+	--mhbkg: #454545; /* app hower background */
+	--mhbor: #FF595E; /* app hower border */
+	--mactive: #8FA725;
+	--minactive: #FF5C5F;
+	--mexited: #F9B236;
+	--hoo: #454545;
+	}
+
+ .AppButton:hover{ 
+	background: var(--hoo)!important;
+   }

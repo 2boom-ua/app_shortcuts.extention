@@ -1,0 +1,87 @@
+/*main css*/
+:root {
+	--mred: #FF9D9F;
+	--myellow: #FFD38C;
+	--mgreen: #CBE070;
+	--mblue: #80ACD6;
+	--mviolet: #AE8FC0;
+	--mdarkblue: #0881d8;
+	}
+	
+:active, :focus {
+  outline: none !important;
+}
+button::-moz-focus-inner {
+  border: 0 !important;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --color-scheme-background: #383838;
+        --color-scheme-text-color: white;
+		}
+	}
+@media (prefers-color-scheme: light) {
+    :root {
+        --color-scheme-background: #f2f2f2;
+        --color-scheme-text-color: #424251;
+		}
+	}
+
+html {
+    background: var(--color-scheme-background);
+    color: var(--color-scheme-text-color);
+	}
+body {
+	font-family: 'Segoe UI', sans-serif;
+    font-size: 15px;
+	margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: top;
+	}
+* {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.link{
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 0.1em;
+	margin-bottom: 0.1em;
+	margin-right: 0.1em;
+	margin-left: 0.1em;
+	}
+.center {
+	position: relative;
+	top: -4px;
+	width: 88px;
+	height: 88px;
+}
+.AppButton { 
+	box-sizing: content-box; width: 92px; height: 92px; border-radius: 4px;
+   }
+.AppDesk{
+	position: relative;
+	
+	max-width: 90px;
+	top: -16px;
+	text-align: center;
+	color: var(--mdesc);
+	font-size: 12.5px;
+	font-weight: 600;
+	}
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+	vertical-align: top;
+	}
