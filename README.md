@@ -1,2 +1,3 @@
 # app_shortcuts.extention
 shortuts 
+app shortcuts (google, microsoft, and others) for chrome, opera, edge ....
