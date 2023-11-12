@@ -4,7 +4,7 @@
 	let response = await fetch("four.json");
 	if (response.ok) {
  		let data = await response.json();
-		for(let i = 0; i < 33; i++) {
+		for(let i = 0; i < 32; i++) {
 			sells.push("4:" + i);
 		}
 		//console.log(data[0]);
