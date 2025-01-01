@@ -1,0 +1,218 @@
+{
+	"4:0": {
+		"link": "https://www.google.com",
+		"icon": "/icons/wGoogle.svg",
+		"ficon": "/icons/favicons/msearch.svg",
+		"name": "Google"
+	},
+	"4:1": {
+		"link": "https://gmail.com",
+		"icon": "/icons/wGmail.svg",
+		"ficon": "/icons/favicons/mmail.svg",
+		"name": "Gmail"
+	},
+	"4:2": {
+		"link": "https://www.youtube.com",
+		"icon": "/icons/wYouTube.svg",
+		"ficon": "/icons/favicons/myoutube.svg",
+		"name": "YouTube"
+	},
+	"4:3": {
+		"link": "https://photos.google.com",
+		"icon": "/icons/wPhotos.svg",
+		"ficon": "/icons/favicons/mphotos.svg",
+		"name": "Photos"
+	},
+	"4:4": {
+		"link": "https://translate.google.com",
+		"icon": "/icons/wTranslate.svg",
+		"ficon": "/icons/favicons/mtranslate.svg",
+		"name": "Translate"
+	},
+	"4:5": {
+		"link": "https://contacts.google.com",
+		"icon": "/icons/wContacts.svg",
+		"ficon": "/icons/favicons/mcontacts.svg",
+		"name": "Contacts"
+	},
+	"4:6": {
+		"link": "https://keep.google.com/",
+		"icon": "/icons/wKeep.svg",
+		"ficon": "/icons/favicons/mgoffice.svg",
+		"name": "Keep"
+	},
+	"4:7": {
+		"link": "https://docs.google.com/document/u/0/",
+		"icon": "/icons/wDocs.svg",
+		"ficon": "/icons/favicons/mgoffice.svg",
+		"name": "Docs"
+	},
+	"4:8": {
+		"link": "https://docs.google.com/spreadsheets/u/0/",
+		"icon": "/icons/wSheets.svg",
+		"ficon": "/icons/favicons/mgoffice.svg",
+		"name": "Sheets"
+	},
+	"4:9": {
+		"link": "https://meet.google.com",
+		"icon": "/icons/wMeet.svg",
+		"ficon": "/icons/favicons/mgoffice.svg",
+		"name": "Meet"
+	},
+	"4:10": {
+		"link": "https://drive.google.com/drive/my-drive",
+		"icon": "/icons/wDrive.svg",
+		"ficon": "/icons/favicons/mgdrive.svg",
+		"name": "Drive"
+	},
+	"4:11": {
+		"link": "https://i.ua/",
+		"icon": "/icons/fmua.svg",
+		"ficon": "/icons/favicons/mmail.svg",
+		"name": "UA.fm"
+	},
+	"4:12": {
+		"link": "https://www.bing.com",
+		"icon": "/icons/wBing.svg",
+		"ficon": "/icons/favicons/msearch.svg",
+		"name": "Bing"
+	},          
+	"4:13": {    
+		"link": "https://outlook.live.com/mail/0/",
+		"icon": "/icons/wOutlook.svg",
+		"ficon": "/icons/favicons/mmail.svg",
+		"name": "Outlook"
+	},          
+	"4:14": {    
+		"link": "https://www.office.com/launch/excel/",
+		"icon": "/icons/wExcel.svg",
+		"ficon": "/icons/favicons/mmoffice.svg",
+		"name": "Excel"
+	},          
+	"4:15": {    
+		"link": "https://www.office.com/launch/word/",
+		"icon": "/icons/wWord.svg",
+		"ficon": "/icons/favicons/mmoffice.svg",
+		"name": "Word"
+	},          
+	"4:16": {    
+		"link": "https://www.onenote.com",
+		"icon": "/icons/wOnenote.svg",
+		"ficon": "/icons/favicons/mmoffice.svg",
+		"name": "OneNote"
+	},
+	"4:17": {    
+		"link": "https://www.office.com/launch/powerpoint/",
+		"icon": "/icons/wPowerpoint.svg",
+		"ficon": "/icons/favicons/mmoffice.svg",
+		"name": "PowerPoint"
+	},          
+	"4:18": {    
+		"link": "https://onedrive.live.com",
+		"icon": "/icons/wOnedrive.svg",
+		"ficon": "/icons/favicons/monedrive.svg",
+		"name": "OneDrive"
+	},
+	"4:19": {    
+		"link": "https://lists.live.com",
+		"icon": "/icons/lists.svg",
+		"ficon": "/icons/favicons/mmoffice.svg",
+		"name": "Lists"
+	},
+	"4:20": {    
+		"link": "https://to-do.live.com/",
+		"icon": "/icons/wTodo.svg",
+		"ficon": "/icons/favicons/mmoffice.svg",
+		"name": "To Do"
+	},
+	"4:21": {    
+		"link": "https://www.bing.com/maps/",
+		"icon": "/icons/bingmap.svg",
+		"ficon": "/icons/favicons/mmaps.svg",
+		"name": "BingMap"
+	},
+	"4:22": {
+		"link": "https://www.google.com/maps/",
+		"icon": "/icons/wMaps.svg",
+		"ficon": "/icons/favicons/mmaps.svg",
+		"name": "Maps"
+	},
+	"4:23": {
+		"link": "https://www.openstreetmap.org",
+		"icon": "/icons/osm.svg",	
+		"ficon": "/icons/favicons/mmaps.svg",
+		"name": "Openmap"
+    },
+	"4:24": {
+		"link": "https://www.yahoo.com/",
+		"icon": "/icons/yahoo.svg",	
+		"ficon": "/icons/favicons/msearch.svg",
+		"name": "Yahoo"
+	},
+	"4:25": {
+		"link": "https://www.wikipedia.org/",
+		"icon": "/icons/Wikipedia.svg",
+		"ficon": "/icons/favicons/msearch.svg",
+		"name": "Wikipedia"
+	},
+	"4:26": {
+		"link": "https://start.duckduckgo.com/",
+		"icon": "/icons/Duckduckgo.svg",	
+		"ficon": "/icons/favicons/msearch.svg",
+		"name": "Duckduckgo"
+	},
+	"4:27": {    
+		"link": "https://web.skype.com",
+		"icon": "/icons/wSkype.svg",
+		"ficon": "/icons/favicons/mskype.svg",
+		"name": "Skype"
+	},          
+	"4:28": {    
+		"link": "https://web.whatsapp.com",
+		"icon": "/icons/wWhatsApp.svg",
+		"ficon": "/icons/favicons/mwhatsapp.svg",
+		"name": "WhatsApp"
+	},          
+	"4:29": {    
+		"link": "https://web.telegram.org",
+		"icon": "/icons/wTelegram.svg",
+		"ficon": "/icons/favicons/mtelegram.svg",
+		"name": "Telegram"
+	},          
+	"4:30": {    
+		"link": "https://web.wechat.com/?lang=en",
+		"icon": "/icons/wWechat.svg",
+		"ficon": "/icons/favicons/mwechat.svg",
+		"name": "WeChat"
+	},
+	"4:31": {
+		"link": "https://teams.live.com/",
+		"icon": "/icons/teams.svg",	
+		"ficon": "/icons/favicons/mteams.svg",
+		"name": "Teams"
+    },
+	"4:32": {
+		"link": "https://chat.openai.com/",
+		"icon": "/icons/gpt.svg",	
+		"ficon": "/icons/favicons/mai.svg",
+		"name": "ChatGPT"
+    },
+	"4:33": {
+		"link": "https://gemini.google.com/app",
+		"icon": "/icons/gemeni.svg",	
+		"ficon": "/icons/favicons/mgem.svg",
+		"name": "Gemeni"
+    },
+	"4:34": {
+		"link": "https://www.bing.com/chat?q=Bing+AI&FORM=hpcodx",
+		"icon": "/icons/copilot.svg",	
+		"ficon": "/icons/favicons/mcop.svg",
+		"name": "Copilot"
+    },
+	"4:35": {
+		"link": "https://you.com/",
+		"icon": "/icons/you.svg",	
+		"ficon": "/icons/favicons/myou.svg",
+		"name": "You"
+	}
+}

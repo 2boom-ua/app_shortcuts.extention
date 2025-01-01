@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="70px" height="62px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 59.317 52.538"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+    .fil4 {fill:#34A853;fill-rule:nonzero}
+    .fil3 {fill:#4285F4;fill-rule:nonzero}
+    .fil2 {fill:#EA4335;fill-rule:nonzero}
+    .fil1 {fill:#FBBC04;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0" width="59.317" height="52.538"/>
+ </g>
+ <g id="__x0023_Layer_x0020_1">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_1476649260144">
+   <path class="fil1" d="M23.515 19.567c3.393,0 6.144,2.751 6.144,6.144l0 0.558 -11.729 0c-0.309,0 -0.558,-0.25 -0.558,-0.558 0,-3.393 2.75,-6.144 6.143,-6.144z" jetway-hook-id="B4287B30-9B3D-4F6B-9C01-2A7C2CA23D6F"/>
+   <path class="fil2" d="M36.36 20.126c0,3.392 -2.75,6.143 -6.143,6.143l-0.558 0 0 -11.729c0,-0.308 0.25,-0.558 0.558,-0.558 3.393,0 6.143,2.751 6.143,6.144z" jetway-hook-id="5872DD7E-5971-4393-9299-364708D669BC"/>
+   <path class="fil3" d="M35.802 32.97c-3.393,0 -6.143,-2.75 -6.143,-6.143l0 -0.558 11.729 0c0.308,0 0.558,0.25 0.558,0.558 0,3.393 -2.751,6.143 -6.144,6.143z" jetway-hook-id="184B2279-6FFE-4CA2-B961-54092B122EB8"/>
+   <path class="fil4" d="M22.957 32.413c0,-3.393 2.75,-6.144 6.144,-6.144l0.558 0 0 11.729c0,0.308 -0.25,0.558 -0.558,0.558 -3.394,0 -6.144,-2.751 -6.144,-6.143z" jetway-hook-id="2AD9C930-A41C-474E-9152-1E50FC2C457C"/>
+  </g>
+ </g>
+</svg>
